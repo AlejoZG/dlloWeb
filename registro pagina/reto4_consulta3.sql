@@ -1,0 +1,1 @@
+SELECT AVG(Edad) FROM usuarios;
