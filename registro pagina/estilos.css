@@ -11,9 +11,38 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 28%, rgba(
 }
 
 
+.form-ingreso{
+    background-color: rgb(0, 255, 76);
+    width: 450px;
+    background: #43d993;
+    
+    padding: 80px;
+    margin:auto;
+    margin-top: 50px;
+    border-radius: 25px;
+    font-family: calibri;
+    color:white;
+    box-shadow: 7px 13px 37px #000;
+    
 
+}
+h1{
+    text-align: center;
+}
+.boton{
+    width: 100%;
+    background:#455773;
+    border-radius:15px;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    box-shadow: 7px 13px 37px #000;
 
-
+}
+.boton:hover{
+cursor:pointer;
+}
 .form-register{
     width: 450px;
     background: rgb(2,0,36);
@@ -37,7 +66,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 28%, rgba(
 
 .controls{
     width: 100%;
-    background:#f7f7f7;
+    background:#455773;
     padding: 10px;
     border-radius: 4px;
     margin-bottom: 16px;
